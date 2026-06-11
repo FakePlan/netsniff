@@ -1,0 +1,15 @@
+# Visual Studio Build Files
+x64/
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.idb
+*.recipe
+*.log
+*.lastbuildstate
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
